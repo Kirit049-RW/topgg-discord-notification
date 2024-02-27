@@ -1,0 +1,32 @@
+{
+  "name": "topgg-discord-notification",
+  "version": "1.0.0",
+  "description": "Send a notification on Discord when someone vote on Top.gg",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kirit049-RW/topgg-discord-notification.git"
+  },
+  "keywords": [
+    "top.gg",
+    "discord",
+    "notification"
+  ],
+  "author": "Kirito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirit049-RW/topgg-discord-notification/issues"
+  },
+  "homepage": "https://github.com/Kirit049-RW/topgg-discord-notification#readme",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.6",
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "express-ipfilter": "^1.3.2"
+  }
+}

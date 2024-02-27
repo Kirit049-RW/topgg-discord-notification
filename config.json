@@ -1,0 +1,23 @@
+{
+  "api": {
+    "hostname": "0.0.0.0",
+    "port": 2208,
+    "link": "http://your_server_ip:"
+  },
+  "_commentIps": [
+    "localhost",
+    "top.gg ip",
+    "your ip"
+  ],
+  "IpsAllow": [
+    "::/1",
+    "159.203.105.187",
+    "add_your_server_ip_here"
+  ],
+  "botToken": "",
+  "discordWebhook": "",
+  "topggToken": {
+    "botExample": "jpqjdshbvfirdevzocmdercnoozdnvrrfenhv",
+    "guildExample": "jdisopfoierjnvomrzqenfvhoqenrvvrdcf"
+  }
+}
