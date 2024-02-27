@@ -10,7 +10,7 @@ How to use it ?
    - IPs whitelist to secure the API
    - top.gg configuration (Authorization)
 4. Fill the Webhook URL and the Authorization on top.gg
-![topgg_example.png](Images%2Ftopgg_example.png)
+![topgg_example.png](./Images/topgg_example.png)
 5. Start the main.js file
 6. Enjoy
 
