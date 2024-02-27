@@ -22,3 +22,8 @@ node main.js
 - In order to secure the API, an ip whitelist is available. You can add your ip in the config.json file.
 - For each bot / guild you want to setup, use a unique top.gg token.
 - On top.gg you can use the send test button to check if the webhook is working.
+
+### Links
+[Discord server](https://discord.gg/Dwn5Nc6WgR) : If you have any questions, don't hesitate to join the discord server.
+
+[BotMarket Website](https://botmarket.ovh) : Our website where you can find all our bots.
